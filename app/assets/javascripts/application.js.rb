@@ -1,0 +1,5 @@
+require 'opal'
+require 'opal_ujs'
+require 'turbolinks'
+require 'jquery-ui/dialog'
+require_tree '.'
