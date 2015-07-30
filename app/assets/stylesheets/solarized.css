@@ -320,7 +320,7 @@ body #opal-irb-console-bottom-panel {
 }
 
 body #opal-irb-console {
-  height: 490px;
+  height: 400px;
 }
 
 /*#show-irb {
@@ -344,8 +344,7 @@ body #opal-irb-console {
   color: #797979;
   background-color: #FCF5E4;
   border-color: black;
-  opacity: 1;
-  border-width: 5px;
+  /*border-width: 5px;*/
 }
 .btn-danger:active,
 .btn-danger.active,
