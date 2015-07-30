@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+gem 'pg'
 gem 'opal'
 gem 'opal-jquery'
 gem 'opal-browser'
